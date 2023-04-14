@@ -1,0 +1,30 @@
+.container{
+    background-color: lightsteelblue;
+   
+    margin-top: 140px;
+    width: 800px;
+    height: 300px;
+    margin-left: 300px;
+
+    border: 2px solid black;
+   
+   
+}
+
+#temp,.convert,.select,.output,.value,.answer{
+    padding-top: 10px;
+    color: black;
+    text-align: center;
+    margin-left: 10px;
+
+  
+   
+}
+
+
+
+ /* .convert{
+   margin-left: 10px
+} */
+
+
